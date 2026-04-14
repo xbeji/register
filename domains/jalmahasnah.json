@@ -1,0 +1,14 @@
+{
+  "owner": {
+    "username": "xbeji"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": [
+      {
+        "name": "_vercel",
+        "value": "vc-domain-verify=jalmahasnah.is-a.dev,0dad81667d606fbdbe..."
+      }
+    ]
+  }
+}
